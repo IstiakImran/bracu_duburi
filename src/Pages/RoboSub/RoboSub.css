@@ -1,0 +1,61 @@
+.robosub-container {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    width: 150px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  
+  .sidebar button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .sidebar button:hover {
+    background-color: #0056b3;
+  }
+  
+  .contentts {
+    margin-left: 170px;
+    padding: 20px;
+    width: calc(100% - 170px);
+  }
+  
+  .header-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .section-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .contentts h1 {
+    color: #333;
+  }
+  
+  .contentts h2 {
+    color: #007bff;
+  }
+  
+  .contentts p {
+    color: #555;
+    line-height: 1.6;
+  }
+  

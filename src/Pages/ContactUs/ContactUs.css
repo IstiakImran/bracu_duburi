@@ -1,0 +1,56 @@
+.contact-us {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .contact-us h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .contact-us p {
+    text-align: center;
+    color: #666;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-person {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-person h3 {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .contact-person p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .contact-person a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-person a:hover {
+    text-decoration: underline;
+  }
+  
+  .address {
+    margin-top: 20px;
+  }
+  
+  .address h2 {
+    color: #333;
+  }
+  
+  .address p {
+    color: #555;
+  }
+  

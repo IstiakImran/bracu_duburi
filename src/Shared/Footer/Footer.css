@@ -1,0 +1,42 @@
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .social-media {
+    margin: 10px;
+  }
+  
+  .social-media h3 {
+    margin-bottom: 10px;
+  }
+  
+  .social-media a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+    transition: color 0.3s ease;
+  }
+  
+  .social-media a:hover {
+    color: #61dafb;
+  }
+  
+  .team-advisors {
+    margin: 10px;
+  }
+  
+  .team-advisors h3 {
+    margin-bottom: 10px;
+  }
+  
