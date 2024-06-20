@@ -4,7 +4,7 @@
     height: 100vh;
   }
   
-  .header {
+  .team-header {
     display: flex;
     justify-content: center;
     background-color: #333;
@@ -31,7 +31,7 @@
     overflow: hidden;
   }
   
-  .sidebar {
+  .team-sidebar {
     width: 200px;
     background-color: #f4f4f4;
     padding: 20px;
@@ -39,7 +39,7 @@
     border-right: 1px solid #ddd;
   }
   
-  .sidebar button {
+  .team-sidebar button {
     display: block;
     background: none;
     border: none;
@@ -51,7 +51,7 @@
     font-size: 16px;
   }
   
-  .sidebar button.active {
+  .team-sidebar button.active {
     background-color: #ddd;
   }
   

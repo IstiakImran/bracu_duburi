@@ -23,7 +23,7 @@ const Teams = () => {
 
   return (
     <div className="Teams">
-      <header className="header">
+      <header className="team-header">
         {teams.map(team => (
           <button
             key={team.year}
@@ -35,7 +35,7 @@ const Teams = () => {
         ))}
       </header>
       <div className="contentt">
-        <nav className="sidebar">
+        <nav className="team-sidebar">
           {Object.keys(currentTeam.departments).map(department => (
             <button
               key={department}

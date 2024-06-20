@@ -28,12 +28,11 @@
     flex: 1;
   }
   
-  .sidebar {
+  .auv-sidebar {
     width: 200px;
     background-color: #f4f4f4;
     padding: 1rem;
     border-right: 1px solid #ddd;
-    position: fixed; /* Fixes the sidebar in place */
     height: calc(100vh - 4rem); /* Adjusts height to viewport minus nav-bar */
     overflow-y: auto;
   }

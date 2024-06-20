@@ -43,7 +43,7 @@ const Vehicles = () => {
         ))}
       </nav>
       <div className="contentss">
-        <aside className="sidebar">
+        <aside className="auv-sidebar">
           {auvData && Object.keys(auvData).map((section) => (
             <button
               key={section}
