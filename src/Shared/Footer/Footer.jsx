@@ -12,8 +12,8 @@ const Footer = () => {
           <a href="https://www.instagram.com/bracu_duburi_auv/" target="_blank" rel="noopener noreferrer">Instagram</a>
         </div>
         <div className="team-advisors">
-          <h3>Our Advisors</h3>
-          <p>Masum Billah</p>
+          {/* <h3>Our Advisors</h3>
+          <p>Masum Billah</p> */}
         </div>
       </div>
     </footer>
